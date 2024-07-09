@@ -1,0 +1,25 @@
+{
+  "name": "graphql-hackernews-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.16.1",
+    "apollo-server": "^3.13.0",
+    "graphql": "^16.9.0"
+  },
+  "browserslist": [
+    "last 2 versions",
+    "not dead",
+    "not < 60"
+  ],
+  "devDependencies": {
+    "prisma": "^5.16.1"
+  }
+}
