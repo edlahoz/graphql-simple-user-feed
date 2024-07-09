@@ -1,5 +1,7 @@
 # To run the project locally, follow these instructions:
 
+### You will need to add a .env file and include an APP_SECRET variable for use with jwt auth
+
 1. Install the project dependencies:
 
 ```
