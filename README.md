@@ -1,4 +1,4 @@
-# To run the GraphQL Hacker News Clone project locally, follow these instructions:
+# To run the project locally, follow these instructions:
 
 1. Install the project dependencies:
 
